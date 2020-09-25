@@ -1,2 +1,3 @@
 Egit add
 Egit commit
+Egit status
